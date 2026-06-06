@@ -4,4 +4,7 @@ def test_me():
 print("This is a Test File")
 
 def test_me():
-    return "I am from master so test me"
+    return "I am from master so test me"i
+
+def test_final():
+    return "final test"
