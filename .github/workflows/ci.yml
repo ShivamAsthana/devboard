@@ -1,7 +1,7 @@
 # Goal - I have to Lint, Build, Test the code for Frontend & Backend
 # then Push the images to DockerHub 
 name: CI
-
+# this is my testing now
 on: 
     push:
         branches: [advanced]
